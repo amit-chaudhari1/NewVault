@@ -1,0 +1,130 @@
+{
+  "main": {
+    "id": "0c578118b352ab26",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6bb2396e0f4e5be",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b7dfb48f5833b163",
+    "type": "split",
+    "children": [
+      {
+        "id": "7797e4b12ab93716",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1c022d5db456bfa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1449a2327d9cba8c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "post",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 278.00793838500977,
+    "collapsed": true
+  },
+  "right": {
+    "id": "e4b9843de67ac215",
+    "type": "split",
+    "children": [
+      {
+        "id": "0af808abfe951257",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f43f4dd777c41fdc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "279c14d65221a37d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "796cdf6b51b9b816",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "284c112180d2bbb2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c1c022d5db456bfa",
+  "lastOpenFiles": [
+    "Pasted image 20221006205627.png",
+    "Pasted image 20221016132801.png",
+    "candy.md",
+    "Breadth-First Search.md",
+    "Recursion.md",
+    "Greedy.md",
+    "BigO Stuff to remember about.md",
+    "Dynamic Programming.md",
+    "Right Smaller Than.md",
+    "Validate Three Nodes.md"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "obsidian-prism-theme@@color-schemes-dt": "pt-color-scheme-raven-dt",
+  "shimmering-focus@@disable-vim-cursor-blink": true,
+  "shimmering-focus@@use-relative-line-numbers": true,
+  "sanctum@@dark-mode-contrast-mode": "sanctum-black",
+  "sanctum@@color-accent-rgb-l": "83, 112, 159",
+  "sanctum@@color-accent-rgb-d": "83, 112, 159",
+  "shimmering-focus@@mac-os-native": false,
+  "obsidian-prism-theme@@file-line-width": 700,
+  "obsidian-prism-theme@@pt-fade-inactive-tabs": true,
+  "obsidian-prism-theme@@pt-disable-blur": false,
+  "obsidian-prism-theme@@dark-accent-color-preset": "pt-accent-color-pink-dt"
+}

@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "0c578118b352ab26",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d9890054413432c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98b78626b7042527",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/Frontmatter.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1c66a11e3d4d759c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nonexistent.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b7dfb48f5833b163",
+    "type": "split",
+    "children": [
+      {
+        "id": "7797e4b12ab93716",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1c022d5db456bfa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1449a2327d9cba8c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0cc41feccd009f3a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "dc4e0f4b6f8904f5",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 295.5
+  },
+  "right": {
+    "id": "e4b9843de67ac215",
+    "type": "split",
+    "children": [
+      {
+        "id": "0af808abfe951257",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "279c14d65221a37d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f43f4dd777c41fdc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "templates/Frontmatter.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "796cdf6b51b9b816",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "templates/Frontmatter.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
+      "audio-recorder:Start/stop recording": false,
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "98b78626b7042527",
+  "lastOpenFiles": [
+    "nonexistent.md",
+    "templates/Frontmatter.md",
+    "templates/links.md",
+    "templater_scripts/getLinks.js",
+    "templater_scripts/getLInks.js",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Untitled1.md",
+    "templates/tags.md",
+    "templater_scripts/getBacklinks.js",
+    "templater_scripts/setFM.js",
+    "templater_scripts/setNoteID.js",
+    "templater_scripts/suid.js",
+    "Untitled 2.md",
+    "New folder",
+    "templates/Corezettel.md",
+    "templates/ProblemPattern.md",
+    "templater_scripts/Untitled.md",
+    "templates/ProblemArchive.md",
+    "templater_scripts",
+    "Untitled 3.md",
+    "DSA Vault/Untitled 1.md",
+    "DSA Vault/templates/ProblemPattern.md",
+    "DSA Vault/templates/ProblemArchive.md",
+    "DSA Vault/templates/Corezettel.md",
+    "DSA Vault/templates",
+    "DSA Vault/Constructive Algorithms.md",
+    "DSA Vault/2 Keyboards.md",
+    "DSA Vault/Combinatorics.md",
+    "DSA Vault/Anary Tree.md",
+    "DSA Vault/Bubble sort.md",
+    "DSA Vault/Counting sort.md",
+    "DSA Vault/Bucket sort.md",
+    "DSA Vault/Same BSTs.md",
+    "DSA Vault/DP Things.canvas",
+    "DSA Vault/Recordings/Recording 20230813110130.webm",
+    "DP Things.canvas",
+    "Excalidraw/Drawing 2023-04-01 09.39.00.excalidraw.svg",
+    "Test canvas.canvas",
+    "Test/Untitled.canvas"
+  ]
+}

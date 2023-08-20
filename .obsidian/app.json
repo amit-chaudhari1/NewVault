@@ -1,0 +1,15 @@
+{
+  "promptDelete": false,
+  "legacyEditor": false,
+  "vimMode": true,
+  "tabSize": 4,
+  "showLineNumber": true,
+  "livePreview": false,
+  "alwaysUpdateLinks": true,
+  "communityThemeSortOrder": "download",
+  "readableLineLength": false,
+  "showFrontmatter": true,
+  "trashOption": "local",
+  "showInlineTitle": true,
+  "defaultViewMode": "preview"
+}
